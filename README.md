@@ -380,9 +380,9 @@ require('telescope').extensions.spaceport.projects()
 Or you can search for a specific tmux window or session name:
 
 ```lua
-require('telecope').extensions.spaceport.tmux_windows()
+require('telescope').extensions.spaceport.tmux_windows()
 
-require('telecope').extensions.spaceport.tmux_sessions()
+require('telescope').extensions.spaceport.tmux_sessions()
 ```
 
 Or you can search for a directory that is not yet registered in spaceport (requires `fd`; tmux pickers require `tmux`):
