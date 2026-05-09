@@ -1,5 +1,7 @@
 # Architecture
 
+This file describes the codebase. If you maintain a fork, see **Upstream pull requests** in [README.md](README.md) before contributing changes back to [CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim).
+
 ## High Level Overview
 
 Spaceport is composed of two seperate components: the project tracker and a powerful rendering engine.
